@@ -1,4 +1,4 @@
-def hash(s):
+def hash(s): # HASH FUNCTION
     s = s[1]
     p = 67
     m = 10**9 + 9
